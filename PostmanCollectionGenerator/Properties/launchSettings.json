@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PostmanCollectionGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\frederic\\Bureau\\xmls E:\\frederic\\Bureau\\ \"E:\\frederic\\Bureau\\Default collection.postman_collection.json\" Generated.postman_collection.json"
+    }
+  }
+}
